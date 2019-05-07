@@ -2,6 +2,7 @@ import os
 
 from instagram.application import create_application
 
+from instagram.application import create_application
 
 configuration = os.environ['APPLICATION_CONFIG_FILE']
 
