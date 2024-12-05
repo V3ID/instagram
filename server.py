@@ -1,5 +1,5 @@
 from instagram import application
 
-print('u nub lol')
+print('yes')
 
 application.run()
